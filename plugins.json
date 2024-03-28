@@ -138,5 +138,9 @@
     {
         "repo": "2891954521/LiteLoaderQQNT-OneBotApi-JS",
         "branch": "main"
+    },
+    {
+        "repo": "yuyumoko/LiteLoaderQQNT-Plugin-Eencode",
+        "branch": "main"
     }
 ]
