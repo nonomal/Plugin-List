@@ -16,10 +16,6 @@
         "branch": "main"
     },
     {
-        "repo": "PRO-2684/LiteLoaderQQNT-pURLfy",
-        "branch": "main"
-    },
-    {
         "repo": "PRO-2684/Scriptio",
         "branch": "main"
     },
@@ -145,6 +141,10 @@
     },
     {
         "repo": "yuyumoko/LiteLoaderQQNT-Plugin-Eencode",
+        "branch": "main"
+    },
+    {
+        "repo": "PRO-2684/LiteLoaderQQNT-pURLfy",
         "branch": "main"
     }
 ]
