@@ -8,14 +8,6 @@
         "branch": "v4"
     },
     {
-        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-QQPromote",
-        "branch": "master"
-    },
-    {
-        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-LLAPI",
-        "branch": "main"
-    },
-    {
         "repo": "PRO-2684/Scriptio",
         "branch": "main"
     },
@@ -26,10 +18,6 @@
     {
         "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
         "branch": "v4"
-    },
-    {
-        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Plugin-Store",
-        "branch": "master"
     },
     {
         "repo": "mo-jinran/window-on-top",
@@ -101,10 +89,6 @@
     },
     {
         "repo": "xtaw/LiteLoaderQQNT-Fake-Message",
-        "branch": "master"
-    },
-    {
-        "repo": "Night-stars-1/LiteLoaderQQNT-Plugin-Message",
         "branch": "master"
     },
     {
