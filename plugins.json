@@ -130,5 +130,9 @@
     {
         "repo": "PRO-2684/LiteLoaderQQNT-pURLfy",
         "branch": "main"
+    },
+    {
+        "repo": "xtaw/LiteLoaderQQNT-Euphony",
+        "branch": "master"
     }
 ]
