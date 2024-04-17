@@ -138,5 +138,9 @@
     {
         "repo": "pk5ls20/LiteLoaderQQNT-NekoImage",
         "branch": "main"
+    },
+    {
+        "repo": "hunyan1/LiteLoaderQQNT-Consent",
+        "branch": "master"
     }
 ]
