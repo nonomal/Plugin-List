@@ -142,9 +142,13 @@
     {
         "repo": "hunyan1/LiteLoaderQQNT-Consent",
         "branch": "master"
-    }
+    },
     {
         "repo": "Eticeweng/LiteLoaderQQNT-Editor-Auto-Script",
         "branch": "main"
+    },
+    {
+        "repo": "Eticeweng/LiteLoaderQQNT-Link-Preview",
+        "branch": "master"
     }
 ]
