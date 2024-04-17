@@ -134,5 +134,9 @@
     {
         "repo": "xtaw/LiteLoaderQQNT-Euphony",
         "branch": "master"
+    },
+    {
+        "repo": "pk5ls20/LiteLoaderQQNT-NekoImage",
+        "branch": "main"
     }
 ]
