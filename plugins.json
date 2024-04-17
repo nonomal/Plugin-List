@@ -154,9 +154,5 @@
     {
         "repo": "liaozhangsheng/LiteLoaderQQNT-Translate",
         "branch": "master"
-    },
-    {
-        "repo": "AzideCupric/LiteLoaderQQNT-Plugin-Booth",
-        "branch": "master"
     }
 ]
