@@ -154,5 +154,9 @@
     {
         "repo": "liaozhangsheng/LiteLoaderQQNT-Translate",
         "branch": "master"
+    },
+    {
+        "repo": "adproqwq/LiteLoaderQQNT-AutoSendMessages",
+        "branch": "main"
     }
 ]
