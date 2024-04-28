@@ -158,5 +158,9 @@
     {
         "repo": "adproqwq/LiteLoaderQQNT-AutoSendMessages",
         "branch": "main"
+    },
+    {
+        "repo": "xinyihl/LiteLoaderQQNT-PluginInstaller",
+        "branch": "main"
     }
 ]
