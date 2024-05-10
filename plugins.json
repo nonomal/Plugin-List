@@ -162,5 +162,9 @@
     {
         "repo": "xinyihl/LiteLoaderQQNT-PluginInstaller",
         "branch": "main"
+    },
+    {
+        "repo": "adproqwq/LiteLoaderQQNT-CheckUpdateModule",
+        "branch": "main"
     }
 ]
