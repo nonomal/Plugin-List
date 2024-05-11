@@ -164,6 +164,10 @@
         "branch": "main"
     },
     {
+        "repo": "ltxhhz/LL-plugin-list-viewer",
+        "branch": "main"
+    },
+    {
         "repo": "adproqwq/LiteLoaderQQNT-CheckUpdateModule",
         "branch": "main"
     }
