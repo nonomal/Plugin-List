@@ -162,5 +162,9 @@
     {
         "repo": "xinyihl/LiteLoaderQQNT-PluginInstaller",
         "branch": "main"
+    },
+    {
+        "repo": "ltxhhz/LL-plugin-list-viewer",
+        "branch": "main"
     }
 ]
