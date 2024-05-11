@@ -170,5 +170,9 @@
     {
         "repo": "adproqwq/LiteLoaderQQNT-CheckUpdateModule",
         "branch": "main"
+    },
+    {
+        "repo": "wangyz1999/LiteLoaderQQNT-GPT-Reply",
+        "branch": "main"
     }
 ]
