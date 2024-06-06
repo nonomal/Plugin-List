@@ -174,5 +174,9 @@
     {
         "repo": "wangyz1999/LiteLoaderQQNT-GPT-Reply",
         "branch": "main"
+    },
+    {
+        "repo": "lianquke/LiteLoaderQQNT-MessageEdit",
+        "branch": "main"
     }
 ]
