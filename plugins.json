@@ -178,5 +178,9 @@
     {
         "repo": "lianquke/LiteLoaderQQNT-MessageEdit",
         "branch": "main"
+    },
+    {
+        "repo": "xtaw/LiteLoaderQQNT-Daily-Card",
+        "branch": "master"
     }
 ]
