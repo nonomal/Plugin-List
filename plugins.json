@@ -182,5 +182,9 @@
     {
         "repo": "xtaw/LiteLoaderQQNT-Daily-Card",
         "branch": "master"
+    },
+    {
+        "repo": "SyrieYume/starrail_ui",
+        "branch": "main"
     }
 ]
