@@ -186,5 +186,9 @@
     {
         "repo": "SyrieYume/starrail_ui",
         "branch": "main"
+    },
+    {
+        "repo": "PRO-2684/protocio",
+        "branch": "main"
     }
 ]
