@@ -218,5 +218,9 @@
     {
         "repo": "huankong233/LiteLoaderQQNT-HK-Theme",
         "branch": "main"
+    },
+    {
+        "repo": "bakyrd/QQScreenshotSwitch",
+        "branch": "master"
     }
 ]
