@@ -190,5 +190,33 @@
     {
         "repo": "PRO-2684/protocio",
         "branch": "main"
+    },
+    {
+        "repo": "zilewang7/LiteLoaderQQNT-Esc-Shortcut-Key",
+        "branch": "master"
+    },
+    {
+        "repo": "XiaWuSharve/LiteLoaderQQNT-MergeMessage",
+        "branch": "main"
+    },
+    {
+        "repo": "brx86/LiteLoaderQQNT-Remove-Suffix",
+        "branch": "main"
+    },
+    {
+        "repo": "kobe-koto/LiteLoaderQQNT-Theme-Altruistic",
+        "branch": "main"
+    },
+    {
+        "repo": "MingxuanGame/LiteLoaderQQNT-emojifix",
+        "branch": "main"
+    },
+    {
+        "repo": "adproqwq/LiteLoaderQQNT-GKDInspectForQQNT",
+        "branch": "main"
+    },
+    {
+        "repo": "huankong233/LiteLoaderQQNT-HK-Theme",
+        "branch": "main"
     }
 ]
