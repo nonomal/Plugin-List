@@ -218,5 +218,9 @@
     {
         "repo": "bakyrd/QQScreenshotSwitch",
         "branch": "master"
+    },
+    {
+        "repo": "adproqwq/LiteLoaderQQNT-QuickReply",
+        "branch": "main"
     }
 ]
