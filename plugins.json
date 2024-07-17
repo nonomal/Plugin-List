@@ -222,5 +222,9 @@
     {
         "repo": "adproqwq/LiteLoaderQQNT-QuickReply",
         "branch": "main"
+    },
+    {
+        "repo": "jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations",
+        "branch": "main"
     }
 ]
