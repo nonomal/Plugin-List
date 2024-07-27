@@ -226,5 +226,9 @@
     {
         "repo": "jiang-taibai/LiteLoaderQQNT-Quickly-Remove-Conversations",
         "branch": "main"
+    },
+    {
+        "repo": "MapleRecall/LiteLoaderQQNT-CCND",
+        "branch": "main"
     }
 ]
