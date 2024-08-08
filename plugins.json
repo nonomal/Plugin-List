@@ -230,5 +230,9 @@
     {
         "repo": "MapleRecall/LiteLoaderQQNT-CCND",
         "branch": "main"
+    },
+    {
+        "repo": "Ark-Aak/Arknights_Plugin",
+        "branch": "main"
     }
 ]
