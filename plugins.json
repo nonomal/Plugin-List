@@ -234,5 +234,9 @@
     {
         "repo": "Ark-Aak/Arknights_Plugin",
         "branch": "main"
+    },
+    {
+        "repo": "adproqwq/LiteLoaderQQNT-Kemisago",
+        "branch": "main"
     }
 ]
