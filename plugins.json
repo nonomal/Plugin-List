@@ -246,5 +246,9 @@
     {
         "repo": "NapNeko/NapCatQQ",
         "branch": "main"
+    },
+    {
+        "repo": "bakyrd/QQNoFlash",
+        "branch": "master"
     }
 ]
