@@ -250,5 +250,9 @@
     {
         "repo": "bakyrd/QQNoFlash",
         "branch": "master"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Encrypt-Chat",
+        "branch": "main"
     }
 ]
