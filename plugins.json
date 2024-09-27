@@ -254,5 +254,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Encrypt-Chat",
         "branch": "main"
+    },
+    {
+        "repo": "nyaruhodoo/LiteLoader-StarWand",
+        "branch": "master"
     }
 ]
