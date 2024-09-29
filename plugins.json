@@ -258,5 +258,9 @@
     {
         "repo": "nyaruhodoo/LiteLoader-StarWand",
         "branch": "master"
+    },
+    {
+        "repo": "bakyrd/LiteLoader-LittleHammer",
+        "branch": "master"
     }
 ]
