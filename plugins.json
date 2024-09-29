@@ -262,5 +262,25 @@
     {
         "repo": "bakyrd/LiteLoader-LittleHammer",
         "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Chronocat-Api",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Chronocat-Event",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Media",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Crychiccat",
+        "branch": "master"
     }
 ]
