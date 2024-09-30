@@ -282,5 +282,9 @@
     {
         "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Crychiccat",
         "branch": "master"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Echo-Message",
+        "branch": "main"
     }
 ]
