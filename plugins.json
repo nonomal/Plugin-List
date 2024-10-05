@@ -290,5 +290,9 @@
     {
         "repo": "AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow",
         "branch": "master"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Change-Summary",
+        "branch": "main"
     }
 ]
