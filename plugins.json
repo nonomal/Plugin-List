@@ -294,5 +294,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Change-Summary",
         "branch": "main"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Grab-RedBag",
+        "branch": "main"
     }
 ]
