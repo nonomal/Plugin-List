@@ -298,5 +298,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Grab-RedBag",
         "branch": "main"
+    },
+    {
+        "repo": "Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message",
+        "branch": "main"
     }
 ]
