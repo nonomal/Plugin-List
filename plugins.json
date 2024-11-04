@@ -298,5 +298,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Grab-RedBag",
         "branch": "main"
+    },
+    {
+        "repo": "CarlGao4/LL-Sidebar-Simplify",
+        "branch": "main"
     }
 ]
