@@ -300,7 +300,11 @@
         "branch": "main"
     },
     {
-		"repo": "XiaozhiSans/QQNTnoTips",
-		"branch": "main"
-	}
+        "repo": "XiaozhiSans/QQNTnoTips",
+        "branch": "main"
+    },
+    {
+        "repo": "Bdbmzwsc/LiteLoaderQQNT-Auto-Format-Message",
+        "branch": "main"
+	  }
 ]
