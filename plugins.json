@@ -310,5 +310,9 @@
     {
         "repo": "CarlGao4/LL-Sidebar-Simplify",
         "branch": "main"
+    },
+    {
+        "repo": "QWXL/LiteLoaderQQNT-socket.io-support",
+        "branch": "main"
     }
 ]
