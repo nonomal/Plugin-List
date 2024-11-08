@@ -314,9 +314,9 @@
     {
         "repo": "QWXL/LiteLoaderQQNT-socket.io-support",
         "branch": "main"
-    }
-    "repository": {
+    },
+    {
         "repo": "elegantloneliness/qqMessageBlocker",
         "branch": "main"
-      }
+    }
 ]
