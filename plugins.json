@@ -318,5 +318,9 @@
     {
         "repo": "elegantloneliness/qqMessageBlocker",
         "branch": "main"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Stick-Emoji",
+        "branch": "main"
     }
 ]
