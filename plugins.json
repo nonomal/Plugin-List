@@ -322,5 +322,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Stick-Emoji",
         "branch": "main"
+    },
+    {
+        "repo": "WongJingGitt/LiteLoaderQQNT-AutoForward",
+        "branch": "master"
     }
 ]
