@@ -322,5 +322,9 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Stick-Emoji",
         "branch": "main"
+    },
+    {
+        "repo": "TransparentLC/LiteLoaderQQNT-PGP-Encryption",
+        "branch": "master"
     }
 ]
