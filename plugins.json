@@ -324,6 +324,10 @@
         "branch": "main"
     },
     {
+        "repo": "TransparentLC/LiteLoaderQQNT-PGP-Encryption",
+        "branch": "master"
+    },
+    {
         "repo": "WongJingGitt/LiteLoaderQQNT-AutoForward",
         "branch": "master"
     }
