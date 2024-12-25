@@ -316,7 +316,11 @@
         "branch": "main"
     },
     {
-        "repo": "elegantloneliness/qqMessageBlocker",
+        "repo": "elegantland/qqMessageBlocker",
+        "branch": "main"
+    },
+    {   
+        "repo": "elegantland/qqMessageSave",
         "branch": "main"
     },
     {
