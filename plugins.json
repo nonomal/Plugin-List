@@ -342,5 +342,9 @@
     {
         "repo": "LateDreamXD/llqqnt-custom_msgbub",
         "branch": "main"
+    },
+    {
+        "repo": "XCWQW1/LiteLoaderQQNT-Theme-S4U",
+        "branch": "main"
     }
 ]
